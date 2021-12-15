@@ -1,5 +1,8 @@
 # Laboratorio 10 Base de Datos 2
+## Integrantes
 
+* Sebastian Quispe
+* Christian Salazar
 ## Pregunta 1
 Investigue el tamaño de los vectores característicos y como son 
 obtenidos en la librería de referencia.
