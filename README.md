@@ -9,3 +9,7 @@ obtenidos en la librería de referencia.
 Los vectores característicos se mapean en un espacio en 2 dimensiones que cuenta con un puntero al registro del objeto.
 
 ## Pregunta 2
+
+Histograma de las distancias obtenidas.
+
+![Screenshot](output.png)
