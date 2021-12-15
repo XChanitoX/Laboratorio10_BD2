@@ -13,6 +13,12 @@ Los vectores característicos se mapean en un espacio en 2 dimensiones que cuent
 
 ## Pregunta 2
 
-Histograma de las distancias obtenidas.
+### Histograma de las distancias obtenidas
 
 ![Screenshot](output.png)
+
+## Pregunta 3
+
+### Implementación búsqueda KNN
+
+![Screenshot](ScreenShotP3Script.png)
