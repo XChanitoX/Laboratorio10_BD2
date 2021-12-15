@@ -19,6 +19,4 @@ Los vectores característicos se mapean en un espacio en 2 dimensiones que cuent
 
 ## Pregunta 3
 
-### Implementación búsqueda KNN
-
 ![Screenshot](ScreenShotP3Script.png)
